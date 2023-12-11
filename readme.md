@@ -28,7 +28,8 @@ Este projeto depende das seguintes bibliotecas Python:
 * tsplib95: (http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
 * numpy: (https://numpy.org/)
 * NetworkX: (https://networkx.org/)
-  /* teste */
+
+## ｡₊⊹⭒˚｡⋆Datasets
 O arquivo datasets.txt contém informações de limite para instâncias específicas do TSP. Se disponível, o script calcula e exibe a taxa de aproximação.
 A pasta 'datasets' contém arquivos de instância TSP no formato TSPLIB.
 ```
