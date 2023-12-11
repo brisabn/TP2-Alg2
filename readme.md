@@ -1,5 +1,5 @@
 # 📃README: Solucionador do Problema do Caixeiro Viajante (TSP)
-**ଘ(੭◌ˊ ᵕ ˋ)੭** ★ Este trabalho prático foi desenvolvido para a disciplina de Algoritmos 2 na Universidade Federal de Minas Gerais (UFMG). O objetivo era implementar um algoritmo exato (Branch and Bound) e dois aproximativos (Christofides e Twice Around The Tree) para resolver o Problema do Caixeiro Viajante euclidiano. O foco da análise concentrou-se na comparação de desempenho, avaliando métricas de tempo, espaço e otimalidade.
+**ଘ(੭◌ˊ ᵕ ˋ)੭** ★ Este trabalho prático foi desenvolvido para a disciplina de Algoritmos 2, da Universidade Federal de Minas Gerais (UFMG). O objetivo era implementar um algoritmo exato (Branch and Bound) e dois aproximativos (Christofides e Twice Around The Tree) para resolver o Problema do Caixeiro Viajante euclidiano. O foco da análise concentrou-se na comparação de desempenho, avaliando métricas de tempo, espaço e otimalidade.
 
 ## ｡₊⊹⭒˚｡⋆Execução
 Para a execução do programa, deve ser utilizado Python3.
